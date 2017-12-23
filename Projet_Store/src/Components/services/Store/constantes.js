@@ -1,0 +1,1 @@
+export const Nom_site="@message -- L'utilisateur entre un nom"
